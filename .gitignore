@@ -1,0 +1,15 @@
+# Environments
+.venv/
+
+# Data
+data/
+
+# Model files
+pickle_files/
+*.pkl
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
