@@ -1,9 +1,9 @@
-The following project is for Data Sciene assesment for Data Scientist Position at Capital One
+The following project is for determing fraud transactions
 
 Usuage
 - Ensure to have transactions.txt in folder data
 - Crete a virtual env and run -> "pip install -r requirements.txt" (Installing all dependencies)
-- assessment_dsc_C4859681.ipynb Jupyter notebook contains the following:
+- transaction_Analysis.ipynb Jupyter notebook contains the following:
 - Folder pickle_files contains (All trained ML models and processing pipeline)
 
 WorkFlow in transaction_analysis.ipynb
